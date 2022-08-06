@@ -5,6 +5,6 @@ The following figure shows the block diagram of the small-scale wind turbine sys
 
 ![Screenshot](img1.png)
 
-The simulation can be ejecuted without PIL mode by removing the PIL Block and moving SW´s 1 and 2 up, as shown in the figure below.
+The simulation can be executed without PIL mode by removing the PIL Block and moving switches 1 and 2 up, as shown in the figure below.
 
 ![Screenshot](img2.png)
