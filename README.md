@@ -4,3 +4,7 @@ This repository presents the simulation file used to demonstrate the effectivene
 The following figure shows the block diagram of the small-scale wind turbine system circuit implementation based on the PIL simulation approach, which requires the Wind_Perfil variable to be executed and the embedded F28M3x concerto system connected to the COM6 serial port computer.
 
 ![Screenshot](img1.png)
+
+The simulation can be run without PIL mode by removing the PIL Block and moving switches 1 and 2 up, as shown in the figure below.
+
+![Screenshot](img2.png)
